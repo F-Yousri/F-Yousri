@@ -1,22 +1,30 @@
 # Hey, I'm Fahd Yousri
 
-**Senior Backend Engineer** building fintech infrastructure in Saudi Arabia.
+**Senior Software Engineer** — building fintech infrastructure, leading backend teams, and shipping products across Saudi Arabia and Australia.
 
-I design and build systems for commodity trading, digital signatures, and payment processing — with a focus on security, compliance, and reliability at scale.
+Petroleum engineer turned software engineer. I've spent 6+ years designing APIs, scaling platforms, and integrating complex third-party systems across fintech, sports tech, and e-learning.
 
 ## What I Work With
 
-**Backend** — PHP 8.4, Laravel 12, REST APIs, Event-Driven Architecture, State Machines  
-**Infrastructure** — Docker, CI/CD (GitHub Actions), Deployer, Redis, RabbitMQ  
-**Data** — MySQL, Eloquent, Query Optimization, Database Design  
-**Also** — Ruby on Rails, Python, JavaScript/React, Inertia.js  
+**Backend** — PHP 8.4, Laravel, Ruby on Rails, Node.js/TypeScript
+**Infrastructure** — Docker, GitHub Actions, CI/CD, Deployer, AWS, Huawei Cloud
+**Data** — MySQL, PostgreSQL, Redis, RabbitMQ
+**Frontend** — React, Inertia.js, Livewire, Alpine.js
+**Integrations** — Stripe Connect, Zapier, digital signatures, banking APIs, identity verification
 
-## What I Build
+## Career Highlights
 
-- **Fintech platforms** with SAMA regulatory compliance, AML checks, and audit trails
-- **Integration-heavy systems** connecting trading engines, digital signature providers, banking APIs, and identity verification services
-- **Deployment pipelines** with automated testing, static analysis, and zero-downtime deployments
-- **API architectures** with versioning, OAuth2/Sanctum auth, rate limiting, and comprehensive documentation
+**Senior Software Engineer @ Trell** (2025–Present)
+Fintech platform for commodity trading and invoice financing in Saudi Arabia. Building SAMA-compliant systems with 8+ external integrations (trading engines, digital signatures, banking, identity verification).
+
+**Technical Lead @ One Future Football** (2023–2025)
+Led backend architecture for a sports tech platform. Laravel + Node.js/TypeScript on AWS.
+
+**Lead Engineer @ Ampjar** (2020–2022)
+Led architecture decisions and product development for a marketing platform. Laravel, Livewire, Alpine.js.
+
+**Software Engineer @ Aanaab** (2023)
+Built Ruby on Rails admin systems for an e-learning platform adopted by the Saudi Ministry of Education.
 
 ## Open Source
 
@@ -26,4 +34,4 @@ I design and build systems for commodity trading, digital signatures, and paymen
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahd-yousri)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/F-Yousri)
+[![Website](https://img.shields.io/badge/Website-181717?style=flat&logo=github&logoColor=white)](https://f-yousri.github.io)
